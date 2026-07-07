@@ -8,12 +8,12 @@
 ## 🧭 Навігація
 
 1. **Професійні навички та досягнення**
-	1.1. [Технічний стек](#tech-stack)
-	1.2. [Ключові досягнення](#achievements)
-	1.3. [Розроблені проєкти](#projects)
+	* 1.1. [Технічний стек](#tech-stack)
+	* 1.2. [Ключові досягнення](#achievements)
+	* 1.3. [Розроблені проєкти](#projects)
 2. **Біографія, шлях та зв'язок**
-	2.1. [Про мене](#about-me)
-	2.2. [Контакти](#contacts)
+	* 2.1. [Про мене](#about-me)
+	* 2.2. [Контакти](#contacts)
 
 <a id="tech-stack"></a>
 ## 🛠️ Мій технічний стек
@@ -60,7 +60,9 @@
 ### 👤 Контакти та зв'язок
 
 💼 **LinkedIn:**  [Кирило Федоров](https://www.linkedin.com/in/kirilo-fedorov-a54046419)
+
 🐦 **Telegram:**  [@BimbaXdeV](https://t.me/BimbaXdeV)
+
 📸 **Instagram:**  [bimbaxdev](https://instagram.com/bimbaxdev)
 
 📧 **Електрона пошта:**

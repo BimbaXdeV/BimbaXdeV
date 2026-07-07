@@ -9,12 +9,12 @@
 ## 🧭 Навигация
 
 1. **Профессиональные навыки и достижения**
-	1.1. [Технический стек](#tech-stack)
-	1.2. [Ключевые достижения](#achievements)
-	1.3. [Разработанные проекты](#projects)
+	* 1.1. [Технический стек](#tech-stack)
+	* 1.2. [Ключевые достижения](#achievements)
+	* 1.3. [Разработанные проекты](#projects)
 2. **Биография, путь и связь**
-	2.1. [Обо мне](#about-me)
-	2.2. [Контакты](#contacts)
+	* 2.1. [Обо мне](#about-me)
+	* 2.2. [Контакты](#contacts)
 
 <a id="tech-stack"></a>
 ## 🛠️ Мой технический стек
@@ -60,9 +60,11 @@
 <a id="contacts"></a>
 ### 👤 Контакты и связь
 
-💼 **LinkedIn:**  [Кирилл Федоров](https://www.linkedin.com/in/kirilo-fedorov-a54046419)  
-🐦 **Telegram:**  [@BimbaXdeV](https://t.me/BimbaXdeV)  
-📸 **Instagram:**  [bimbaxdev](https://instagram.com/bimbaxdev)  
+💼 **LinkedIn:**  [Кирилл Федоров](https://www.linkedin.com/in/kirilo-fedorov-a54046419)
 
-📧 **Электронная почта:**  
+🐦 **Telegram:**  [@BimbaXdeV](https://t.me/BimbaXdeV)
+
+📸 **Instagram:**  [bimbaxdev](https://instagram.com/bimbaxdev)
+
+📧 **Электронная почта:**
 * Рабочая:  [k.fedorov.dev@gmail.com](mailto:k.fedorov.dev@gmail.com)

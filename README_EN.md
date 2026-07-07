@@ -9,12 +9,12 @@
 ## 🧭 Navigation
 
 1. **Professional skills and achievements**
-	1.1. [Tech Stack](#tech-stack)
-	1.2. [Key Achievements](#achievements)
-	1.3. [Developed Projects](#projects)
+	* 1.1. [Tech Stack](#tech-stack)
+	* 1.2. [Key Achievements](#achievements)
+	* 1.3. [Developed Projects](#projects)
 2. **Biography, journey, and connection**
-	2.1. [About Me](#about-me)
-	2.2. [Contacts](#contacts)
+	* 2.1. [About Me](#about-me)
+	* 2.2. [Contacts](#contacts)
 
 <a id="tech-stack"></a>
 ## 🛠️ My tech stack
@@ -60,9 +60,11 @@ I don't plan to stop, and I am **always ready for new challenges and complex bus
 <a id="contacts"></a>
 ### 👤 Contacts and communication
 
-💼 **LinkedIn:**  [Kyrylo Fedorov](https://www.linkedin.com/in/kirilo-fedorov-a54046419)  
-🐦 **Telegram:**  [@BimbaXdeV](https://t.me/BimbaXdeV)  
-📸 **Instagram:**  [bimbaxdev](https://instagram.com/bimbaxdev)  
+💼 **LinkedIn:**  [Kyrylo Fedorov](https://www.linkedin.com/in/kirilo-fedorov-a54046419)
 
-📧 **Email:**  
+🐦 **Telegram:**  [@BimbaXdeV](https://t.me/BimbaXdeV)
+
+📸 **Instagram:**  [bimbaxdev](https://instagram.com/bimbaxdev)
+
+📧 **Email:**
 * Work:  [k.fedorov.dev@gmail.com](mailto:k.fedorov.dev@gmail.com)

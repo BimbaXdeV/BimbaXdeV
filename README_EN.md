@@ -55,16 +55,4 @@ For some time, I was engaged in **Android app reverse engineering**, mostly Andr
 
 In addition to the superficial use of external APIs and decompilation tools, I am also engaged in **low-level development of high-performance business systems in C# (.NET 9)**. I have a self-designed **network core** under my belt: a personal application network protocol based on TCP, a packet system with multi-level anatomy, and background network events. I fell in love with C# for its variety of development approaches, very comfortable and neat syntax, and the ability to manually manage memory where appropriate. Most of all, I like the **Zero-allocation** approach — zero short-term memory allocation, which allows to **reduce the GC (Garbage Collector) load to zero**. This is the most important part of any high-load system, allowing servers to reuse the same memory area multiple times, saving a massive amount of CPU resources.
 
-I don't plan to stop, and I am **always ready for new challenges and complex business tasks**. Thank you very much for reading my biography! You can find my contacts in the section below👇
-
-<a id="contacts"></a>
-### 👤 Contacts and communication
-
-💼 **LinkedIn:**  [Kyrylo Fedorov](https://www.linkedin.com/in/kirilo-fedorov-a54046419)
-
-🐦 **Telegram:**  [@BimbaXdeV](https://t.me/BimbaXdeV)
-
-📸 **Instagram:**  [bimbaxdev](https://instagram.com/bimbaxdev)
-
-📧 **Email:**
-* Work:  [k.fedorov.dev@gmail.com](mailto:k.fedorov.dev@gmail.com)
+I don't plan to stop, and I am **always ready for new challenges and complex business tasks**. Thank you very much for reading my biography!
